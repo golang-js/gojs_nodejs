@@ -1,7 +1,7 @@
 package eventloop
 
 import (
-	"github.com/dop251/goja"
+	"github.com/golang-js/gojs"
 	"testing"
 	"time"
 )

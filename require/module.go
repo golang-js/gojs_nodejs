@@ -1,7 +1,7 @@
 package require
 
 import (
-	js "github.com/dop251/goja"
+	js "github.com/golang-js/gojs"
 
 	"errors"
 	"fmt"

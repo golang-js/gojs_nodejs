@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	js "github.com/dop251/goja"
+	js "github.com/golang-js/gojs"
 )
 
 func TestRequire(t *testing.T) {
